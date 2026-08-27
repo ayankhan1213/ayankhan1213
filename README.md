@@ -10,10 +10,6 @@
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=flat-square" alt="Status" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Commits&query=%24.total&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dayankhan1213&style=flat-square" alt="Total Commits" />
-</p>
-
 ---
 
 ### 🐍 Contribution Snake
