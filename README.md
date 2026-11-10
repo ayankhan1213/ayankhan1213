@@ -19,7 +19,7 @@
 - 🌱 Improving my backend and API design skills
 - 💼 Open to internships and freelance work
 - 📍 Karachi, Pakistan
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: ayanstack.dev@gmail.com
 
 ---
 
